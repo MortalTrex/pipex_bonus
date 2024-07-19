@@ -6,7 +6,7 @@
 /*   By: rbalazs <rbalazs@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/15 21:27:30 by rbalazs           #+#    #+#             */
-/*   Updated: 2024/07/16 16:51:50 by rbalazs          ###   ########.fr       */
+/*   Updated: 2024/07/19 12:43:47 by rbalazs          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,5 @@
 # include <fcntl.h>
 # include <stdio.h>
 # include <stdlib.h>
-
-
 
 #endif
